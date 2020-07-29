@@ -1,0 +1,9 @@
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\bin\Debug\netstandard2.0\ParkingManagementClassLibrary.deps.json
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\bin\Debug\netstandard2.0\ParkingManagementClassLibrary.dll
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\bin\Debug\netstandard2.0\ParkingManagementClassLibrary.pdb
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\obj\Debug\netstandard2.0\ParkingManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\obj\Debug\netstandard2.0\ParkingManagementClassLibrary.AssemblyInfo.cs
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\obj\Debug\netstandard2.0\ParkingManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\obj\Debug\netstandard2.0\ParkingManagementClassLibrary.dll
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\obj\Debug\netstandard2.0\ParkingManagementClassLibrary.pdb
+C:\Users\איציק\source\repos\ParkingManagement\ParkingManagementClassLibrary\obj\Debug\netstandard2.0\ParkingManagementClassLibrary.csprojAssemblyReference.cache

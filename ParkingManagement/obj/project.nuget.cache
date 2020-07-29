@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5E0EYK7nDz4jxbFKFting8Mitw8xZC0VD1EB0zMzojTnSQ+BZemgtup+yGB7T7UzW4S/Ohqb3P2K/iNiCddAuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\איציק\\source\\repos\\ParkingManagement\\ParkingManagement\\ParkingManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\איציק\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.6\\microsoft.aspnetcore.jsonpatch.3.1.6.nupkg.sha512",
+    "C:\\Users\\איציק\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.6\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.6.nupkg.sha512",
+    "C:\\Users\\איציק\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\איציק\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\איציק\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\איציק\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\איציק\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
